@@ -6,6 +6,8 @@ You can find the code in lvm2.py file
 
 Video file I attached shows how the implementation looks like!!
 
+Note: I used Redhat Enterprise Linux (RHEL8) which is hosted on Oracle Virtualbox.
+
 For any doubts, kindly reach me through
 
 linkedin: www.linkedin.com/in/sri-vishnuvardhan
